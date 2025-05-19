@@ -1,0 +1,56 @@
+\begin{tabular}{lllll}
+\hline
+ \hline                                                          &                     &                         &                    &                                                       \\
+ \textbf{Parameter}                                              & \textbf{Units}      & \textbf{Model}          & \textbf{Ref. val.} & \textbf{ Ref.}                                        \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ $\mathrm{HR}$                                                   & beats/min           & 65.0                    & 68(12)             & \cite{mceniery2008central}                            \\
+ $\mathrm{LVSV}$                                                 & mL                  & 102.8890 [0.4394]       & 112(19)            & \cite{hudsmith2005normal}                             \\
+ $\mathrm{LVSV}$ from $\mathrm{CO}$                              & mL                  & 99.6025 [0.4425]        & 112(19)            & \cite{hudsmith2005normal}                             \\
+ $\mathrm{LVSV}$ index                                           & mL/m$^2$            & 53.5880 [0.4394]        & 56(8)              & \cite{hudsmith2005normal}                             \\
+ $\mathrm{V_{LV,max}}$                                           & mL                  & 158.8249 [0.4574]       & 160(29)            & \cite{hudsmith2005normal}                             \\
+ $\mathrm{LVEF}$                                                 & \%                   & 0.0000 [0.0000]         & 63(5)              & \cite{borlaug2009contractility}                       \\
+ $C_{sa}\mathrm{I}$                                              & mL/mmHg/m$^2$       & 1.1792 [0.0013]         & 1.08(0.27)         & \cite{abdelhammed2005noninvasive}                     \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ \textcolor{blue}{Formula from \cite{najjarAgeGenderAffect2004}} &                     &                         &                    &                                                       \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ $\mathrm{E}_\mathrm{LV}\mathrm{I}$                              & mmHg$\cdot$m$^2$/mL & 3.5327 [0.0231]         & 4.50(-)            & \cite{najjarAgeGenderAffect2004}                      \\
+ $\mathrm{Ea}\mathrm{I}$                                         & mmHg$\cdot$m$^2$/mL & 1.9208 [0.0143]         & 2.20(-)            & \cite{najjarAgeGenderAffect2004}                      \\
+ $\mathrm{Ea}\mathrm{I}/\mathrm{E}_\mathrm{LV}\mathrm{I}$        & -                   & 0.5437 [0.0029]         & 0.58(-)            & \cite{najjarAgeGenderAffect2004}                      \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ $\textcolor{red}{[P_{sa}[V_{LV,min}]]_{Perif}}^{*}$             &                     &                         &                    &                                                       \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ $\mathrm{E}_\mathrm{LV}\mathrm{I}$                              & mmHg$\cdot$m$^2$/mL & 4.0321 [0.0256]         & 4.50(-)            & \cite{najjarAgeGenderAffect2004}                      \\
+ $\mathrm{Ea}\mathrm{I}$                                         & mmHg$\cdot$m$^2$/mL & 2.1923 [0.0150]         & 2.20(-)            & \cite{najjarAgeGenderAffect2004}                      \\
+ $\mathrm{Ea}\mathrm{I}/\mathrm{E}_\mathrm{LV}\mathrm{I}$        & -                   & 0.5437 [0.0029]         & 0.58(-)            & \cite{najjarAgeGenderAffect2004}                      \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ \textbf{Pressure}                                               & \textbf{Units}      & \textbf{Model}          & \textbf{Ref. val.} & \textbf{ Ref.}                                        \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ $\mathrm{MAP}$                                                  & mmHg                & 89.2197 [0.7431]        & 88(8)              & \cite{mceniery2008central}                            \\
+ $\mathrm{CDBP}$                                                 & mmHg                & 73.6199 [0.8120]        & 74(9)              & \cite{mceniery2008central}                            \\
+ $\mathrm{CSBP}$                                                 & mmHg                & 106.2730 [0.8258]       & 103(8)             & \cite{mceniery2008central}                            \\
+ $\mathrm{PDBP}$                                                 & mmHg                & 72.6344 [0.8068]$^{*}$  & 73(8)              & \cite{mceniery2008central}                            \\
+ $\mathrm{PSBP}$                                                 & mmHg                & 118.0806 [0.9247]$^{*}$ & 123(10)            & \cite{mceniery2008central}                            \\
+ $\mathrm{MPAP}$                                                 & mmHg                & 12.4454 [0.8220]        & 14(3)              & \cite{lauRestingPulmonaryArtery}                      \\
+ $\mathrm{CVP}$                                                  & mmHg                & 2.9203 [0.1957]         & (0-5)              & \cite{levickIntroductionCardiovascularPhysiology2010} \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ $\mathrm{CPP}$                                                  & mmHg                & 32.6566 [0.1671]        & 29(5)              & \cite{mceniery2008central}                            \\
+ $\mathrm{PPP}$                                                  & mmHg                & 45.4462 [0.2104]        & 50(9)              & \cite{mceniery2008central}                            \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ \textbf{Cardiac cycle average flow}                             & \textbf{Units}      & \textbf{Model}          & \textbf{Ref. val.} & \textbf{ Ref.}                                        \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ Cardiac output (qAV)                                            & mL/s                & 108.6980 [2.4486]       & 83.3(33.3)         & \cite{cattermoleNormalRangesCardiovascular2017}       \\
+ Cardiac output (LVSV$\times$t$_{\text{cycle}}$)                 & mL/s                & 112.2846 [2.5233]       & 83.3(33.3)         & \cite{cattermoleNormalRangesCardiovascular2017}       \\
+ CO index (qAV)                                                  & mL/s/m$^2$          & 3.3968 [0.0765]         & 2.9(0.8)           & \cite{ganau1992patterns}                              \\
+ CO index (LVSV$\times$t$_{\text{cycle}}$)                       & mL/s/m$^2$          & 3.5089 [0.0789]         & 2.9(0.8)           & \cite{ganau1992patterns}                              \\
+ Venous flow                                                     & mL/s                & 108.9123 [9.1388]       & ---                & ---                                                   \\
+ Cerebral blood flow                                             & mL/s                & 12.2316 [0.0843]        & 12.18(2.12)        & \cite{fordCharacterizationVolumetricFlow2005a}        \\
+ Coronary blood flow                                             & mL/s ,              & 3.9748 [0.0253]         & 4.5(1.36)          & \cite{sakamotoRelationDistributionCoronary2013}       \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+ \hline                                                          &                     &                         &                    &                                                       \\
+\hline
+\end{tabular}
